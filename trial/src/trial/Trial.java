@@ -18,6 +18,7 @@ public class Trial {
         // TODO code application logic here
         System.out.println("Hellloooowwwwwwwwwwww Databaseeeeee");
         System.out.println("  IIISsssssshhhhhhhfaaaaqqqqqq");
+        System.out.println("hello");
     }
     
 }
